@@ -4,7 +4,7 @@ import random
 import pandas as pd
 from instabot import Bot
 
-from config import Config
+from settings import Config
 
 
 def get_caption(file: str):
